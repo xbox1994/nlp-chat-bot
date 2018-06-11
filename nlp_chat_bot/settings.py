@@ -26,8 +26,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    '13.250.14.139',
-    '139.198.188.74',
+    '127.0.0.1',
+    'www.xingganheguan.top',
 ]
 
 # Application definition
