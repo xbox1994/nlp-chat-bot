@@ -125,7 +125,8 @@ function handleFiles(files) {
 }
 
 function resetDisplay() {
-    $("#title").html("丶🐔露Y");
+    // $("#title").html("丶🐔露Y");
+    $("#title").html("点我<img height=\"100px\" width=\"100px\" src=\"/static/img/cjk.jpg\">点我");
     $("#album").html("やめて");
     $("#artist").html("性感荷官在线语Y");
     $('#title').off('click');
