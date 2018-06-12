@@ -6,3 +6,4 @@ nlp_chat_bot.zip
 *.conf
 *.key
 *.pem
+*.pyc
