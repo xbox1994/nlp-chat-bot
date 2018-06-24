@@ -28,6 +28,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     'www.xingganheguan.top',
+    '139.198.188.74',
 ]
 
 # Application definition
